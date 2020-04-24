@@ -70,17 +70,5 @@ Under **IIEC-RISE 1.0** Campaign I learnt about Docker under the guidance of Vim
 ## References:
   ### I learnt this technology totall free of cost in YouTube. What I learnt are mentioned in the below screenshots.
   Here is the YouTube playlist : https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE
-### Session 1 Feedback: 
-![Docker Session 1](Screenshots/Docker%20Session1.png)
-### Session 2 Feedback: 
-![Docker Session 2](Screenshots/Docker%20Session2.png)
-### Session 3 Feedback: 
-![Docker Session 3](Screenshots/Docker%20Session3.png)
-### Session 4 Feedback: 
-![Docker Session 4](Screenshots/Docker%20Session4.png)
-### Session 5 Feedback: 
-![Docker Session 5](Screenshots/Docker%20Session5.png)
-### Session 6 Feedback: 
-![Docker Session 6](Screenshots/Docker%20Session6.png)
 
 ## Lastly Thank you so much Vimal Daga Sir.
